@@ -38,13 +38,13 @@ Environmental stimulus
 	1. the receptors transform environmental energy into electrical
 	   energy, then  
 	2. they shape perception by the way they respong to stimuli. 
-* *visual pigment* - light-sensitive chemical in visual receptors that
+* **visual pigment** - light-sensitive chemical in visual receptors that
   allows them to transform light energy into electrial energy.  
-* *transduction* - formation between two forms of energy.  
-* *transduction by the visual pigments* - allows information about the
+* **transductio** - formation between two forms of energy.  
+* **transduction by the visual pigments** - allows information about the
   representation of the tree formed on the retina to reach the brain and
   perception occurs.  
-* *visual pigment* - shapes perception:
+* **visual pigment** - shapes perception:
 	1. the ability to see dim light depends on having a high
 	   concentration of pigment in the receptors.   
 	2. because there are different types of pigments. 
