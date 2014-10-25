@@ -11,8 +11,8 @@ The study and measurement of perception:
 	5. Quantitative approaches to measurement:  
 		- Detection and magnitude estimation  
 	
-#### 1. Perception as an active process:
-	1. Environmental stimulus  
+#### 1. Perception as an active process:  
+Environmental stimulus  
 		- light hits the tree and is then reflected from the tree to the
 		  person's eyes.  
 		- sensory apparatus orients towards a **distal stimulus** in the environment  
@@ -48,14 +48,14 @@ The study and measurement of perception:
 			1. the ability to see dim light depends on having a high
 			   concentration of pigment in the receptors.   
 			2. because there are different types of pigments. 
+	4. Neural procressing  
+	5. Perception  
+	6. Recognition  
+	7. Action    
 
 To think about:
 ---------------
 What happens if there's no transduction by the visual pigments? (pg. 7) 
-	4. Neural procressing
-	5. Perception
-	6. Recognition
-	7. Action  
 
 
 
