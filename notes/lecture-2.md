@@ -62,8 +62,14 @@ in the brain, where the signals are processed further.
  
 #### 7) Action:    
 * previous **knowledge** or experiences affects many levels of the perceptual process.  
-* **top-down processing** biases your perceptions, leading you towards *certain* conclusions/actions.  
 * **bottom-up processing** is driving more by the properties of the stimulus.  
+	* data-based processing.  
+	* incoming data.  
+	* The woman seens the moth on the tree because of processes triggered by the moth's image on her retina. 
+* **top-down processing** biases your perceptions, leading you towards *certain* conclusions/actions.  
+	* Knowledge-based processing  
+	* When the woman labels what she is seeing as a "moth" or perhaps a particular kind of moth, she is accessing what she has learned about moths.  
+	
 
 Measurement
 ------------
