@@ -40,7 +40,7 @@ Environmental stimulus
 	2. they shape perception by the way they respong to stimuli. 
 * **visual pigment** - light-sensitive chemical in visual receptors that
   allows them to transform light energy into electrial energy.  
-* **transductio** - formation between two forms of energy.  
+* **transduction** - formation between two forms of energy.  
 * **transduction by the visual pigments** - allows information about the
   representation of the tree formed on the retina to reach the brain and
   perception occurs.  
