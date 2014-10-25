@@ -11,29 +11,29 @@ The study and measurement of perception:
 	5. Quantitative approaches to measurement:  
 		- Detection and magnitude estimation  
 	
-#### 1. Perception as an active process:  
+#### 1) Perception as an active process:  
 Environmental stimulus  
 		- light hits the tree and is then reflected from the tree to the
 		  person's eyes.  
 		- sensory apparatus orients towards a **distal stimulus** in the environment  
 		- the tree is the distal stimulus.  
 		  
-Light is reflected and transformed  
+#### 2) Light is reflected and transformed  
 		- light reaches the eye and is transformed as it is focused by the eye's
 		  optical system --> ** cornea **  
 		- The sensory signal from the **distal stimulus** is transmitted and transformed to become a pattern 
-		- the **proximal stimulus** - on the sensory organ.
+		- the **proximal stimulus** - on the sensory organ.  
 		- ***stimuli and responses created by stimuli are transformed, or
-		  changed, between the environment stimulus and perception***
+		  changed, between the environment stimulus and perception***  
 		- form a sharp image of the tree on the ***receptors*** of the person's
-		  retina. 
+		  retina.    
 		- ***Principle of representation*** - "everything a person percieves is
 		  based not on direct contact with stimuli but on represesntation of
 		  stimuli that are fomed on the recepters and on activity in the
 		  person's nervous system.  
 		- the light reflected from the tree is the proximal stimulus.  
 
-Receptor processes  
+#### 3)Receptor processes  
 		- Visual receptors in the back of the eye recieve light, then:  
 			1. the receptors transform environmental energy into electrical
 			   energy, then  
@@ -48,7 +48,7 @@ Receptor processes
 			1. the ability to see dim light depends on having a high
 			   concentration of pigment in the receptors.   
 			2. because there are different types of pigments. 
-Neural procressing  
+#### 4) Neural procressing  
 	5. Perception  
 	6. Recognition  
 	7. Action    
