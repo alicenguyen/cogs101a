@@ -62,7 +62,7 @@ in the brain, where the signals are processed further.
  
 #### 7) Action:    
 * previous **knowledge** or experiences affects many levels of the perceptual process.  
-* **top-down processing** biases your perceptions, leading you towards ***certain** conclusions/actions.  
+* **top-down processing** biases your perceptions, leading you towards *certain* conclusions/actions.  
 * **bottom-up processing** is driving more by the properties of the stimulus.  
 
 Measurement
