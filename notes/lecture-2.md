@@ -20,7 +20,7 @@ Environmental stimulus
 		  
 #### 2) Light is reflected and transformed:  
 * light reaches the eye and is transformed as it is focused by the eye's
-  optical system --> ** cornea **  
+  optical system --> **cornea**  
 * The sensory signal from the **distal stimulus** is transmitted and transformed to become a pattern 
 * the **proximal stimulus** - on the sensory organ.  
 * ***stimuli and responses created by stimuli are transformed, or
