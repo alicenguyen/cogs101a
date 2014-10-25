@@ -11,14 +11,15 @@ The study and measurement of perception:
 	5. Quantitative approaches to measurement:  
 		- Detection and magnitude estimation  
 	
-#### I. Perception as an active process:
-	1. Environmental stimulus
+#### 1. Perception as an active process:
+	1. Environmental stimulus  
+		* distal stimulus
 	2. Light is reflected and transformed
 	3. Receptor processes
 	4. Neural procressing
 	5. Perception
 	6. Recognition
-	7. Action
+	7. Action  
 
 
 
