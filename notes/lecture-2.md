@@ -65,6 +65,25 @@ in the brain, where the signals are processed further.
 * **top-down processing** biases your perceptions, leading you towards ***certain** conclusions/actions.  
 * **bottom-up processing** is driving more by the properties of the stimulus.  
 
+Measurement
+------------
+* **qualia**:
+	- Experiences in the head.  
+	- Scientists can't directly observe  
+* **theoretical constructs**:  
+	- unobservable entities  
+	- Scientists believe they exists, but can't be observed directly.  
+  
+* **opertional definition** - assigns observable behavior as a proxy for the unobservable mental entity and allows you to infer its presence.  
+
+#### Measuring perception  
+
+** David Marr's levels of analysis:  
+1. Computational Level (most abstract)  - ** what and why solve the problem? **  
+	* we don't know anything about the attended stimulus.  
+2. Algorithmic Level - ** how does it solve it? what representation does it use? **   
+3. Implementation Level (most concrete) - ** instantiation in the brain or system? **  
+
 
 To think about:
 ---------------
