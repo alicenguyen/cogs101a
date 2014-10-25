@@ -85,11 +85,23 @@ Measurement
 3. Implementation Level (most concrete) - ** instantiation in the brain or system? **  
 
 
-To think about:
----------------
+If you really think about it:
+------------------------------
 What happens if there's no transduction by the visual pigments? (pg. 7) 
 
 
+On the study guide:  
+--------------------  
+* Be able to explain how perception is an **active process**. How is it different than a passive view?  
+	* Perception requires *knowledge*, *enviornmental context*, and *dynamic interaction*.  
+	* We are constantly re-orienting to the environment.  
 
+iClicker Questions: 
+-------------------
+1. Human sensory systems can be best thought of as:  
+	a. automatic in nature.  
+	b. decoupled from the external environment.  
+	c. passively receiving sensory stimuli.  
+	**d. actively engaging sensory stimuli. ** 
 
 
