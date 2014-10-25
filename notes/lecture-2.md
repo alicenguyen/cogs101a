@@ -18,7 +18,7 @@ Environmental stimulus
 		- sensory apparatus orients towards a **distal stimulus** in the environment  
 		- the tree is the distal stimulus.  
 		  
-	2. Light is reflected and transformed  
+Light is reflected and transformed  
 		- light reaches the eye and is transformed as it is focused by the eye's
 		  optical system --> ** cornea **  
 		- The sensory signal from the **distal stimulus** is transmitted and transformed to become a pattern 
@@ -33,7 +33,7 @@ Environmental stimulus
 		  person's nervous system.  
 		- the light reflected from the tree is the proximal stimulus.  
 
-	3. Receptor processes  
+Receptor processes  
 		- Visual receptors in the back of the eye recieve light, then:  
 			1. the receptors transform environmental energy into electrical
 			   energy, then  
@@ -48,7 +48,7 @@ Environmental stimulus
 			1. the ability to see dim light depends on having a high
 			   concentration of pigment in the receptors.   
 			2. because there are different types of pigments. 
-	4. Neural procressing  
+Neural procressing  
 	5. Perception  
 	6. Recognition  
 	7. Action    
