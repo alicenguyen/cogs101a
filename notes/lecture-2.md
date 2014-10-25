@@ -1,7 +1,7 @@
 Lecture 2 - Levels of Analysis and Explanation
 ================================================
 
-The study and measurement of perception:
+##### The study and measurement of perception:  
 	1. The perceptual process  
 	2. Defining measurement of perception  
 	3. Parsing perception:
