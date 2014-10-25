@@ -102,6 +102,6 @@ iClicker Questions:
 	a. automatic in nature.  
 	b. decoupled from the external environment.  
 	c. passively receiving sensory stimuli.  
-	**d. actively engaging sensory stimuli. ** 
+	d. **actively engaging sensory stimuli.** 
 
 
