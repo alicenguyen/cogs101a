@@ -2,14 +2,14 @@ Lecture 2 - Levels of Analysis and Explanation
 ================================================
 
 The study and measurement of perception:
-	1. The perceptual process
-	2. Defining measurement of perception
+	1. The perceptual process  
+	2. Defining measurement of perception  
 	3. Parsing perception:
-		- the **empirical** (reductionist) approach and Marr's levels of analysis
-	4. Qualitative approaces to measurement:
-		- Description and recognition
-	5. Quantitative approaches to measurement:
-		- Detection and magnitude estimation
+		- the **empirical** (reductionist) approach and Marr's levels of analysis  
+	4. Qualitative approaces to measurement:  
+		- Description and recognition  
+	5. Quantitative approaches to measurement:  
+		- Detection and magnitude estimation  
 	
 ### Perception as an active process:
 	1. Environmental stimulus
