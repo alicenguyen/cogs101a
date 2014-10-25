@@ -33,7 +33,7 @@ Environmental stimulus
   person's nervous system.  
 * the light reflected from the tree is the proximal stimulus.  
 
-#### 3)Receptor processes:  
+#### 3) Receptor processes:  
 * Visual receptors in the back of the eye recieve light, then:  
 	1. the receptors transform environmental energy into electrical
 	   energy, then  
@@ -48,10 +48,23 @@ Environmental stimulus
 	1. the ability to see dim light depends on having a high
 	   concentration of pigment in the receptors.   
 	2. because there are different types of pigments. 
+
 #### 4) Neural procressing:  
+* Transduced neurobiological signals are processed and transmitted to *primary sensory cortices*
+in the brain, where the signals are processed further. 
+
 #### 5) Perception:  
+* *perception* - conscious awareness of the tree  
+	* **visial form agnosia** - an inability to recognize objects 
+
 #### 6) Recognition:    
+* *recognition* - placing an object in a category  
+ 
 #### 7) Action:    
+* previous **knowledge** or experiences affects many levels of the perceptual process.  
+* *top-down processing* biases your perceptions, leading you towards ***certain** conclusions/actions.  
+* **bottom-up** is driving more by the properties of the stimulus.  
+
 
 To think about:
 ---------------
