@@ -13,12 +13,12 @@ The study and measurement of perception:
 	
 #### 1) Perception as an active process:  
 Environmental stimulus  
-		- light hits the tree and is then reflected from the tree to the
-		  person's eyes.  
-		- sensory apparatus orients towards a **distal stimulus** in the environment  
-		- the tree is the distal stimulus.  
+* light hits the tree and is then reflected from the tree to the
+  person's eyes.  
+* sensory apparatus orients towards a **distal stimulus** in the environment  
+* the tree is the distal stimulus.  
 		  
-#### 2) Light is reflected and transformed  
+#### 2) Light is reflected and transformed:  
 		- light reaches the eye and is transformed as it is focused by the eye's
 		  optical system --> ** cornea **  
 		- The sensory signal from the **distal stimulus** is transmitted and transformed to become a pattern 
