@@ -13,7 +13,8 @@ The study and measurement of perception:
 	
 #### 1. Perception as an active process:
 	1. Environmental stimulus  
-		* distal stimulus
+		- distal stimulus  
+		  
 	2. Light is reflected and transformed
 	3. Receptor processes
 	4. Neural procressing
