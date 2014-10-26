@@ -35,17 +35,31 @@ Qualitative Methods:
 	
 Quantitative Methods:  
 ---------------------------------------------------
-* Detection  
+1. Detection  
 	* **absolute threshold** - smallest amount of stimlulus energy required for
-	  detection.  
-		* Stimului are presented at different intensities. The order switches at
-		each trial. The observer indicates whether they detect the signal. When
-		the answer changes, this is called a **crossover point**.  
-		* absolute threshold = mean value(crossover points) 
+	  detection. 
+	  	1. **Method of limits**
+			* Stimului are presented at different intensities. The order switches at
+			each trial. The observer indicates whether they detect the signal. When
+			the answer changes, this is called a **crossover point**.  
+			* absolute threshold = mean value(crossover points) 
+		2. **Method of adjustment** 
+			* Observer adjusts stimulus intensity until they detect the stimulus  
+			* trials can be repeated to get an average stimulus intensity value require for detection  
+			* advantage: fast  
+		3. **Method of constant stimuli**
+			* Experimenter presents 5-9 stimuli with different intensities in random order. 
+			* Each stimuli is presented several times, but in random order.  
+			* threshold = the intensity at which the stimulus was detected 50% of the time.  
+			* advantage: most accurate method.  
+
+
+
+
 
 	* **difference threshold** - smallest difference between two stimuli that
 	  can be detected  
-* Magnitude estimation  
-* Visual search and reaction time  
+2. Magnitude estimation  
+3. Visual search and reaction time  
 
 
