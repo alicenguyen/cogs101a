@@ -110,4 +110,20 @@ iClicker Questions:
 	c. passively receiving sensory stimuli.  
 	d. **actively engaging sensory stimuli.** 
 
+2. Which element seems best matched to the 'input' stage of Marr's computational
+   level?  
+   a. Receptor processes  
+   b. Proximal stimulus  
+   c. Light is reflected and transformed  
+   d. **Distal stimulus**  
+
+3. A 'bright light response' is operationally defined as 'a  prologned blink'.
+   You record the number of blinks to different intentsities of light.  Which of
+   the marr's levels of analysis best describes the study?  
+   a. **Computational**  
+   b. Algorithmic  
+   c. Implementation  
+   d. Both A and B  
+
+	We're only interested in the input and output.
 
